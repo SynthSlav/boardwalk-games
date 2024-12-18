@@ -92,6 +92,14 @@ h2 {
 #services .card {
     margin-bottom: 1.5rem;
 }
+
+/* events */
+
+#discount-btn {
+    border-radius: 0;
+    background-color: var(--highlight-color);
+    color: white;
+}
 /* Games library cards */
 
 #new-games .card,
