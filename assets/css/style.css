@@ -69,7 +69,7 @@ h2 {
 /* Games library cards */
 
 #new-games .card,
-#favourite-games .card {
+#fav-games .card {
     border: none;
 }
 
